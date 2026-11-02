@@ -1,4 +1,6 @@
-<p align="center" style="font-size: 2em; font-weight: bold;">
+forked from CyberGiant7/Elden-Ring-Automatic-Checklist
+
+<!-- <p align="center" style="font-size: 2em; font-weight: bold;">
    <img align="center" src="./assets/img/logo.webp" />
 </p>
 <div align="center">
@@ -72,4 +74,4 @@ Special thanks to:
 
 - [@Phil25](https://github.com/Phil25), for the perfect and reliable [database](https://github.com/EldenRingDatabase/erdb);
 - contributor of [The Elden Ring Cheat Table](https://github.com/inuNorii/Elden-Ring-CT-TGA), their project helped me to understand the binary save file;
-- [u/Erigondo](https://www.reddit.com/user/Erigondo/) for the [post](https://www.reddit.com/r/fromsoftware/comments/tqoav1/all_game_item_images_sfx_spell_textures_elden_ring/) on reddit with all the images of the game items in high resolution
+- [u/Erigondo](https://www.reddit.com/user/Erigondo/) for the [post](https://www.reddit.com/r/fromsoftware/comments/tqoav1/all_game_item_images_sfx_spell_textures_elden_ring/) on reddit with all the images of the game items in high resolution -->
