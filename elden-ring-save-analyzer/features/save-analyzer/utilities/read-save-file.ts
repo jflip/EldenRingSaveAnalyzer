@@ -1,8 +1,5 @@
 import isSaveValid from "./is-save-valid";
 
-
-
-
 const readSaveFile = (file: File): Promise<ArrayBuffer> => {
   return new Promise((resolve, reject) => {
     const reader = new FileReader();
@@ -20,8 +17,7 @@ const readSaveFile = (file: File): Promise<ArrayBuffer> => {
         return;
       }
 
-      resolve(file_read)
-
+      resolve(file_read);
     };
     reader.onerror = function () {
       reject(reader.error ?? new Error("Error reading save file"));
